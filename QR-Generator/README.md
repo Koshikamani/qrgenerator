@@ -2,8 +2,7 @@
 <p align="justify">A QR CODE Generator Webpage using API</p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Koshikamani/Koshikamani.github.io)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://vinodjangid07.github.io/)
-[![Author](https://img.shields.io/badge/Author-Mani%20Koshika-purple.svg)]
+
 
 
 ## Tools Used 🛠️
