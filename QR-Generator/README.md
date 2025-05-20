@@ -10,4 +10,4 @@
 * [<b>HTML, CSS, JS</b>](https://www.w3schools.com/css/default.asp) - To create UI of this webpage.
 * [<b>QR Code API</b>](https://goqr.me/api/) - To Generate QR.
 ## Website Demo 🛠️
-* [<b>CodeMatrix</b>](https://qrgenerator-6b75.vercel.app/) - explore now.
+* [<b>CodeMatrix</b>](https://qrgenerator-7fxq.vercel.app/)- explore now.
